@@ -12,4 +12,4 @@ Alunas:
 
 Link do nosso vídeo no youtube:
 
-Link do nosso reposítorio no GitHub: 
+Link do nosso reposítorio no GitHub: https://github.com/MariCantarelli/Proj1_Trab2.git
