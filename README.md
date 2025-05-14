@@ -1,6 +1,6 @@
 # Proj1_Trab2
 
-Trabalho 02: Organizando as turmas do professor Charles- Projeto e análise de algoritmos 1
+Trabalho 02: Organizando as turmas do professor Charles - Projeto e análise de algoritmos 1
 
 Alunas:
 
