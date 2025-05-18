@@ -10,6 +10,6 @@ Alunas:
 
 - Marina Cantarelli Barroca, RA: 10740412
 
-Link do nosso vídeo no youtube:
+Link do nosso vídeo no youtube: https://youtu.be/54dAWI9G6Ec?si=sYQiPeztTjaU8kh9
 
 Link do nosso reposítorio no GitHub: https://github.com/MariCantarelli/Proj1_Trab2.git
